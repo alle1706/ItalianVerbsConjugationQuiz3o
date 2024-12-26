@@ -1,0 +1,11 @@
+,
+    {
+        "verb": "",
+        "tenses": {
+            "Participio Passato": [""],
+            "Presente": ["", "", "", "", "", ""],
+            "Imperfetto": ["", "", "", "", "", ""],
+            "Futuro": ["", "", "", "", "", ""],
+            "Condizionale Presente": ["", "", "", "", "", ""]
+        }
+    }

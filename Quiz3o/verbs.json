@@ -1,0 +1,329 @@
+[
+    {
+    "verb": "andare",
+    "tenses": {
+        "Presente": ["vado", "vai", "va", "andiamo", "andate", "vanno"],
+        "Imperfetto": ["andavo", "andavi", "andava", "andavamo", "andavate", "andavano"],
+        "Futuro": ["andrò", "andrai", "andrà", "andremo", "andrete", "andranno"],
+        "Condizionale Presente": ["andrei", "andresti", "andrebbe", "andremmo", "andreste", "andrebbero"]
+    }
+    },
+
+    {
+        "verb": "avere",
+        "tenses": {
+            "Presente": ["ho", "hai", "ha", "abbiamo", "avete", "hanno"],
+            "Imperfetto": ["avevo", "avevi", "aveva", "avevamo", "avevate", "avevano"],
+            "Futuro": ["avrò", "avrai", "avrà", "avremo", "avrete", "avranno"],
+            "Condizionale Presente": ["avrei", "avresti", "avrebbe", "avremmo", "avreste", "avrebbero"]
+        }
+    },
+    
+    {
+        "verb": "bere",
+        "tenses": {
+            "Presente": ["bevo", "bevi", "beve", "beviamo", "bevete", "bevono"],
+            "Imperfetto": ["bevevo", "bevevi", "beveva", "bevevamo", "bevevate", "bevevano"],
+            "Futuro": ["berrò", "berrai", "berrà", "berremo", "berrete", "berranno"],
+            "Condizionale Presente": ["beverei", "beveresti", "beverebbe", "beveremmo", "bevereste", "beverebbero"]
+        }
+    },
+
+    {
+        "verb": "camminare",
+        "tenses": {
+            "Presente": ["cammino", "cammini", "cammina", "camminiamo", "camminate", "camminano"],
+            "Imperfetto": ["camminavo", "camminavi", "camminava", "camminavamo", "camminavate", "camminavano"],
+            "Futuro": ["camminerò", "camminerai", "camminerà", "cammineremo", "camminerete", "cammineranno"],
+            "Condizionale Presente": ["camminerei", "cammineresti", "camminerebbe", "cammineremmo", "camminereste", "camminerebbero"]
+        }
+    },
+
+    {
+        "verb": "capire",
+        "tenses": {
+            "Presente": ["capisco", "capisci", "capisce", "capiamo", "capite", "capiscono"],
+            "Imperfetto": ["capivo", "capivi", "capiva", "capivamo", "capivate", "capivano"],
+            "Futuro": ["capirò", "capirai", "capirà", "capiremo", "capirete", "capiranno"],
+            "Condizionale Presente": ["capirei", "capiresti", "capirebbe", "capiremmo", "capireste", "capirebbero"]
+        }
+    },
+
+    {
+        "verb": "chiacchierare",
+        "tenses": {
+            "Presente": ["chiacchiero", "chiacchieri", "chiacchiera", "chiacchieriamo", "chiacchierate", "chiacchierano"],
+            "Imperfetto": ["chiacchieravo", "chiacchieravi", "chiacchierava", "chiacchieravamo", "chiacchieravate", "chiacchieravano"],
+            "Futuro": ["chiacchiererò", "chiacchiererai", "chiacchiererà", "chiacchiereremo", "chiacchiererete", "chiacchiereranno"],
+            "Condizionale Presente": ["chiacchiererei", "chiacchiereresti", "chiacchiererebbe", "chiacchiereremmo", "chiacchierereste", "chiacchiererebbero"]
+        }
+    },
+
+    {
+        "verb": "cominciare",
+        "tenses": {
+            "Presente": ["comincio", "cominci", "comincia", "cominciamo", "cominciate", "cominciano"],
+            "Imperfetto": ["cominciavo", "cominciavi", "cominciava", "cominciavamo", "cominciavate", "cominciavano"],
+            "Futuro": ["comincerò", "comincerai", "comincerà", "cominceremo", "comincerete", "cominceranno"],
+            "Condizionale Presente": ["comincerei", "cominceresti", "comincerebbe", "cominceremmo", "comincereste", "comincerebbero"]
+        }
+    },
+
+    {
+        "verb": "dare",
+        "tenses": {
+            "Presente": ["do", "dai", "dà", "diamo", "date", "danno"],
+            "Imperfetto": ["davo", "davi", "dava", "davamo", "davate", "davano"],
+            "Futuro": ["darò", "darai", "darà", "daremo", "darete", "daranno"],
+            "Condizionale Presente": ["darei", "daresti", "darebbe", "daremmo", "dareste", "darebbero"]
+        }
+    },
+
+    {
+        "verb": "dire",
+        "tenses": {
+            "Presente": ["dico", "dici", "dice", "diciamo", "dite", "dicono"],
+            "Imperfetto": ["dicevo", "dicevi", "diceva", "dicevamo", "dicevate", "dicevano"],
+            "Futuro": ["dirò", "dirai", "dirà", "diremo", "direte", "diranno"],
+            "Condizionale Presente": ["direi", "diresti", "direbbe", "diremmo", "direste", "direbbero"]
+        }
+    },
+    
+    {
+        "verb": "dormire",
+        "tenses": {
+            "Presente": ["dormo", "dormi", "dorme", "dormiamo", "dormite", "dormono"],
+            "Imperfetto": ["dormivo", "dormivi", "dormiva", "dormivamo", "dormivate", "dormivano"],
+            "Futuro": ["dormirò", "dormirai", "dormirà", "dormiremo", "dormirete", "dormiranno"],
+            "Condizionale Presente": ["dormirei", "dormiresti", "dormirebbe", "dormiremmo", "dormireste", "dormirebbo"]
+        }
+    },
+    {
+        "verb": "dovere",
+        "tenses": {
+            "Presente": ["devo", "devi", "deve", "dobbiamo", "dovete", "devono"],
+            "Imperfetto": ["dovevo", "dovevi", "doveva", "dovevamo", "dovevate", "dovevano"],
+            "Futuro": ["dovrò", "dovrai", "dovrà", "dovremo", "dovrete", "dovranno"],
+            "Condizionale Presente": ["dovrei", "dovresti", "dovrebbe", "dovremmo", "dovreste", "dovrebbero"]
+        }
+    },
+    
+    {
+        "verb": "entrare",
+        "tenses": {
+            "Presente": ["entro", "entri", "entra", "entriamo", "entrate", "entrano"],
+            "Imperfetto": ["entravo", "entravi", "entrava", "entravamo", "entravate", "entravano"],
+            "Futuro": ["entrerò", "entrerai", "entrerà", "entreremo", "entrerete", "entreranno"],
+            "Condizionale Presente": ["entrerei", "entreresti", "entrerebbe", "entreremmo", "entrereste", "entrerebbero"]
+        }
+    },
+
+    {
+        "verb": "essere",
+        "tenses": {
+            "Presente": ["sono", "sei", "è", "siamo", "siete", "sono"],
+            "Imperfetto": ["ero", "eri", "era", "eravamo", "eravate", "erano"],
+            "Futuro": ["sarò", "sarai", "sarà", "saremo", "sarete", "saranno"],
+            "Condizionale Presente": ["sarei", "saresti", "sarebbe", "saremmo", "sareste", "sarebbero"]
+        }
+    },
+    
+    {
+        "verb": "fare",
+        "tenses": {
+            "Presente": ["faccio", "fai", "fa", "facciamo", "fate", "fanno"],
+            "Imperfetto": ["facevo", "facevi", "faceva", "facevamo", "facevate", "facevano"],
+            "Futuro": ["farò", "farai", "farà", "faremo", "farete", "faranno"],
+            "Condizionale Presente": ["farei", "faresti", "farebbe", "faremmo", "fareste", "farebbero"]
+        }
+    },
+    
+    {
+        "verb": "imparare",
+        "tenses": {
+            "Presente": ["imparo", "impari", "impara", "impariamo", "imparate", "imparano"],
+            "Imperfetto": ["imparavo", "imparavi", "imparava", "imparavamo", "imparavate", "imparavano"],
+            "Futuro": ["imparerò", "imparerai", "imparerà", "impareremo", "imparerete", "impareranno"],
+            "Condizionale Presente": ["imparerei", "impareresti", "imparerebbe", "impareremmo", "imparereste", "imparerebbero"]
+        }
+    },
+    {
+        "verb": "lasciare",
+        "tenses": {
+            "Presente": ["lascio", "lasci", "lascia", "lasciamo", "lasciate", "lasciano"],
+            "Imperfetto": ["lasciavo", "lasciavi", "lasciava", "lasciavamo", "lasciavate", "lasciavano"],
+            "Futuro": ["lascerò", "lascerai", "lascerà", "lasceremo", "lascerete", "lasceranno"],
+            "Condizionale Presente": ["lascerei", "lasceresti", "lascerebbe", "lasceremmo", "lascereste", "lascerebbero"]
+        }
+    },
+
+    {
+        "verb": "leggere",
+        "tenses": {
+            "Presente": ["leggo", "leggi", "legge", "leggiamo", "leggete", "leggono"],
+            "Imperfetto": ["leggevo", "leggevi", "leggeva", "leggevamo", "leggevate", "leggevano"],
+            "Futuro": ["leggerò", "leggerai", "leggerà", "leggeremo", "leggerete", "leggeranno"],
+            "Condizionale Presente": ["leggerei", "leggeresti", "leggerebbe", "leggeremmo", "leggereste", "leggerebbero"]
+        }
+    },
+    {
+        "verb": "mandare",
+        "tenses": {
+            "Presente": ["mando", "mandi", "manda", "mandiamo", "mandate", "mandano"],
+            "Imperfetto": ["mandavo", "mandavi", "mandava", "mandavamo", "mandavate", "mandavano"],
+            "Futuro": ["manderò", "manderai", "manderà", "manderemo", "manderete", "manderanno"],
+            "Condizionale Presente": ["manderei", "manderesti", "manderebbe", "manderemmo", "mandereste", "manderebbero"]
+        }
+    },
+    {
+        "verb": "mangiare",
+        "tenses": {
+            "Presente": ["mangio", "mangi", "mangia", "mangiamo", "mangiate", "mangiano"],
+            "Imperfetto": ["mangiavo", "mangiavi", "mangiava", "mangiavamo", "mangiavate", "mangiavano"],
+            "Futuro": ["mangerò", "mangerai", "mangerà", "mangeremo", "mangerete", "mangeranno"],
+            "Condizionale Presente": ["mangerei", "mangeresti", "mangerebbe", "mangeremmo", "mangereste", "mangerebbero"]
+        }
+    },
+    
+    {
+        "verb": "pagare",
+        "tenses": {
+            "Presente": ["pago", "paghi", "paga", "paghiamo", "pagate", "pagano"],
+            "Imperfetto": ["pagavo", "pagavi", "pagava", "pagavamo", "pagavate", "pagavano"],
+            "Futuro": ["pagherò", "pagherai", "pagherà", "pagheremo", "pagherete", "pagheranno"],
+            "Condizionale Presente": ["pagherei", "pagheresti", "pagherebbe", "pagheremmo", "paghereste", "pagherebbero"]
+        }
+    },
+    
+    {
+        "verb": "perdere",
+        "tenses": {
+            "Presente": ["perdo", "perdi", "perde", "perdiamo", "perdete", "perdono"],
+            "Imperfetto": ["perdevo", "perdevi", "perdeva", "perdevamo", "perdevate", "perdevano"],
+            "Futuro": ["perderò", "perderai", "perderà", "perderemo", "perderete", "perderanno"],
+            "Condizionale Presente": ["perderei", "perderesti", "perderebbe", "perderemmo", "perdereste", "perderebbero"]
+        }
+    },
+    
+    {
+        "verb": "potere",
+        "tenses": {
+            "Presente": ["posso", "puoi", "può", "possiamo", "potete", "possono"],
+            "Imperfetto": ["potevo", "potevi", "poteva", "potevamo", "potevate", "potevano"],
+            "Futuro": ["potrò", "potrai", "potrà", "potremo", "potrete", "potranno"],
+            "Condizionale Presente": ["potrei", "potresti", "potrebbe", "potremmo", "potreste", "potrebbero"]
+        }
+    },
+    
+    {
+        "verb": "prendere",
+        "tenses": {
+            "Presente": ["prendo", "prendi", "prende", "prendiamo", "prendete", "prendono"],
+            "Imperfetto": ["prendevo", "prendevi", "prendeva", "prendevamo", "prendevate", "prendevano"],
+            "Futuro": ["prenderò", "prenderai", "prenderà", "prenderemo", "prenderete", "prenderanno"],
+            "Condizionale Presente": ["prenderei", "prenderesti", "prenderebbe", "prenderemmo", "prendereste", "prenderebbero"]
+        }
+    },
+    
+    {
+        "verb": "refutare",
+        "tenses": {
+            "Presente": ["refuto", "refuti", "refuta", "refutiamo", "refutate", "refutano"],
+            "Imperfetto": ["refutavo", "refutavi", "refutava", "refutavamo", "refutavate", "refutavano"],
+            "Futuro": ["refuterò", "refuterai", "refuterà", "refuteremo", "refuterete", "refuteranno"],
+            "Condizionale Presente": ["refuterei", "refuteresti", "refuterebbe", "refuteremmo", "refutereste", "refuterebbero"]
+        }
+    },
+    
+    {
+        "verb": "riuscire",
+        "tenses": {
+            "Presente": ["riesco", "riesci", "riesce", "riusciamo", "riuscite", "riescono"],
+            "Imperfetto": ["riuscivo", "riuscivi", "riusciva", "riuscivamo", "riuscivate", "riuscivano"],
+            "Futuro": ["riuscirò", "riuscirai", "riuscirà", "riusciremo", "riuscirete", "riusciranno"],
+            "Condizionale Presente": ["riuscirei", "riusciresti", "riuscirebbe", "riusciremmo", "riuscireste", "riuscirebbero"]
+        }
+    },
+    {
+        "verb": "rompere",
+        "tenses": {
+            "Participio Passato": ["rotto"],
+            "Presente": ["rompo", "rompi", "rompe", "rompiamo", "rompete", "rompono"],
+            "Imperfetto": ["rompevo", "rompevi", "rompeva", "rompevamo", "rompevate", "rompevano"],
+            "Futuro": ["romperò", "romperai", "romperà", "romperemo", "romperete", "romperanno"],
+            "Condizionale Presente": ["romperei", "romperesti", "romperebbe", "romperemmo", "rompereste", "romperebbero"]
+        }
+    },
+    {
+        "verb": "ronfare",
+        "tenses": {
+            "Participio Passato": ["ronfato"],
+            "Presente": ["ronfo", "ronfi", "ronfa", "ronfiamo", "ronfate", "ronfano"],
+            "Imperfetto": ["ronfavo", "ronfavi", "ronfava", "ronfavamo", "ronfavate", "ronfavano"],
+            "Futuro": ["ronferò", "ronferai", "ronferà", "ronferemo", "ronferete", "ronferanno"],
+            "Condizionale Presente": ["ronferei", "ronferesti", "ronferebbe", "ronferemmo", "ronfereste", "ronferebbero"]
+        }
+    },
+    {
+        "verb": "sapere",
+        "tenses": {
+            "Participio Passato": ["saputo"],
+            "Presente": ["so", "sai", "sa", "sappiamo", "sapete", "sanno"],
+            "Imperfetto": ["sapevo", "sapevi", "sapeva", "sapevamo", "sapevate", "sapevano"],
+            "Futuro": ["saprò", "saprai", "saprà", "sapremo", "saprete", "sapranno"],
+            "Condizionale Presente": ["saprei", "sapresti", "saprebbe", "sapremmo", "sapreste", "saprebbero"]
+        }
+    },
+    {
+        "verb": "scopare",
+        "tenses": {
+            "Participio Passato": ["scopato"],
+            "Presente": ["scopo", "scopi", "scopa", "scopiamo", "scopate", "scopano"],
+            "Imperfetto": ["scopavo", "scopavi", "scopava", "scopavamo", "scopavate", "scopavano"],
+            "Futuro": ["scoperò", "scoperai", "scoperà", "scoperemo", "scoperete", "scoperanno"],
+            "Condizionale Presente": ["scoperei", "scoperesti", "scoperebbe", "scoperemmo", "scopereste", "scoperebbero"]
+        }
+    },
+    {
+        "verb": "scoprire",
+        "tenses": {
+            "Participio Passato": ["scoperto"],
+            "Presente": ["scopro", "scopri", "scopre", "scopriamo", "scoprite", "scoprono"],
+            "Imperfetto": ["scoprivo", "scoprivi", "scopriva", "scoprivamo", "scoprivate", "scoprivano"],
+            "Futuro": ["scoprirò", "scoprirai", "scoprirà", "scopriremo", "scoprirete", "scopriranno"],
+            "Condizionale Presente": ["scoprirei", "scopriresti", "scoprirebbe", "scopriremmo", "scoprireste", "scoprirebbero"]
+        }
+    },
+    {
+        "verb": "sembrare",
+        "tenses": {
+            "Participio Passato": ["sembrato"],
+            "Presente": ["sembro", "sembri", "sembra", "sembriamo", "sembrate", "sembrano"],
+            "Imperfetto": ["sembravo", "sembravi", "sembrava", "sembravamo", "sembravate", "sembravano"],
+            "Futuro": ["sembrerò", "sembrerai", "sembrerà", "sembreremo", "sembrerete", "sembreranno"],
+            "Condizionale Presente": ["sembrerei", "sembreresti", "sembrerebbe", "sembreremmo", "sembrereste", "sembrerebbero"]
+        }
+    },
+    {
+        "verb": "tenere",
+        "tenses": {
+            "Participio Passato": ["tenuto"],
+            "Presente": ["tengo", "tieni", "tiene", "teniamo", "tenete", "tengono"],
+            "Imperfetto": ["tenevo", "tenevi", "teneva", "tenevamo", "tenevate", "tenevano"],
+            "Futuro": ["terrò", "terrai", "terrà", "terremo", "terrete", "terrano"],
+            "Condizionale Presente": ["terrei", "terresti", "terrebbe", "terremmo", "terreste", "terrebbero"]
+        }
+    }
+
+
+
+
+
+
+    
+
+]
+
+
+
+
