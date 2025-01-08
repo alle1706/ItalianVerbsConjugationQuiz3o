@@ -3,6 +3,12 @@
 ## Overview
 This mobile application is designed to help users practice and master Italian verb conjugations in various tenses and moods. The app provides an interactive quiz experience, guiding learners to conjugate verbs correctly and reinforcing their understanding through instant feedback.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65a640ba-e1af-4ca7-82c4-381630657ae6" alt="Image 1" width="400">
+  <img src="https://github.com/user-attachments/assets/fa0a77cf-f4f1-49b4-863a-a1c6c4b2379a" alt="Image 2" width="400">
+  <img src="https://github.com/user-attachments/assets/4ada5a8b-a929-4c0f-9552-64261819307a" alt="Image 3" width="400">
+</p>
 ---
 
 ## Features
